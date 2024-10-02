@@ -8,6 +8,6 @@ int main()
 	printf("Masukan lebar persegi : ");
 	scanf("%d", &l);
 	luas=p*l;
-	printf("Luas persegi panjang adalah %d ", luas);
+	printf("Luas persegi panjang adalah %d", luas);
 	return 0;
 }
